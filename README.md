@@ -12,3 +12,5 @@ My hands-on Git exercises for the CBC 30-day challenge.
 
 ## Day 7 progress
 - Opened and reviewed first PR
+
+See [CONTRIBUTING](CONTRIBUTING.md) for guidelines.
