@@ -11,3 +11,4 @@ My hands-on Git exercises for the CBC 30-day challenge.
 - Day 06: Remotes, push, pull, and tracking
 
 ## Day 7 progress
+- Opened and reviewed first PR
