@@ -1,5 +1,8 @@
 # Git 30-Day Challenge
 
+![Git](https://img.shields.io/badge/Git-2.43-orange)
+![Progress](https://img.shields.io/badge/Day-07%2F30-brightgreen)
+
 My hands-on Git exercises for the CBC 30-day challenge.
 
 ## Progress
