@@ -10,3 +10,6 @@ Thank you for contributing to the git-30-day-challenge project.
 
 Follow the existing code style. Keep commit messages in the imperative mood
 ("Add multiply function", not "Added multiply function").
+
+## Development setup
+Clone the repo and run `git status` to confirm setup.
