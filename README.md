@@ -14,3 +14,6 @@ My hands-on Git exercises for the CBC 30-day challenge.
 - Opened and reviewed first PR
 
 See [CONTRIBUTING](CONTRIBUTING.md) for guidelines.
+
+## Experimental
+Placeholder section.
